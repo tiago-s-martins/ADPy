@@ -9,10 +9,8 @@ The PyHBM was developed as a part of collaboration between the Chair of Applied 
 
 List of Developers:
 
-Tiago Martins 
-IDMEC
-Instituto Superior Técnico
-Universidade de Lisboa
+Tiago Martins\\ 
+IDMEC, Instituto Superior Técnico, Universidade de Lisboa\\
 Av. Rovisco Pais, 1049-001, Lisbon, Portugal
 Email: tiago.s.martins@tecnico.ulisboa.pt
 
