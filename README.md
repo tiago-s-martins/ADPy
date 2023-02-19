@@ -9,28 +9,22 @@ The PyHBM was developed as a part of collaboration between the Chair of Applied 
 
 List of Developers:
 
-Tiago Martins\\ 
-IDMEC, Instituto Superior Técnico, Universidade de Lisboa\\
-Av. Rovisco Pais, 1049-001, Lisbon, Portugal
+Tiago Martins  
+IDMEC, Instituto Superior Técnico, Universidade de Lisboa  
+Av. Rovisco Pais, 1049-001, Lisbon, Portugal  
 Email: tiago.s.martins@tecnico.ulisboa.pt
 
-Francesco Trainotti
-Chair of Applied Mechanics
-Department of Mechanical Engineering
-School of Engineering and Design, Technical University of Munich
-Boltzmannstr. 15, 85748 Garching, Germany
+Francesco Trainotti  
+Chair of Applied Mechanics, Department of Mechanical Engineering, School of Engineering and Design, Technical University of Munich  
+Boltzmannstr. 15, 85748 Garching, Germany  
 Email: francesco.trainotti@tum.de
 
-Andreas Zwoelfer
-Chair of Applied Mechanics
-Department of Mechanical Engineering
-School of Engineering and Design, Technical University of Munich
-Boltzmannstr. 15, 85748 Garching, Germany
+Andreas Zwoelfer  
+Chair of Applied Mechanics, Department of Mechanical Engineering, School of Engineering and Design, Technical University of Munich  
+Boltzmannstr. 15, 85748 Garching, Germany  
 Email: andreas.zwoelfer@tum.de
 
-Frederico Afonso
-IDMEC
-Instituto Superior Técnico
-Universidade de Lisboa
-Av. Rovisco Pais, 1049-001, Lisbon, Portugal
+Frederico Afonso  
+IDMEC, Instituto Superior Técnico, Universidade de Lisboa  
+Av. Rovisco Pais, 1049-001, Lisbon, Portugal  
 Email: frederico.afonso@tecnico.ulisboa.pt
